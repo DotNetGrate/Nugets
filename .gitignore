@@ -4,3 +4,5 @@
 
 /DotNetGrate.Nugets.SqlClient/bin/Debug
 /DotNetGrate.Nugets.SqlClient/obj
+/.vs/DotNetGrate.Nugets
+/DotNetGrate.Nugets.Console/obj
