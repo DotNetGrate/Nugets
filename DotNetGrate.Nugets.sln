@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetGrate.Nugets.SqlClient", "DotNetGrate.Nugets.SqlClient\DotNetGrate.Nugets.SqlClient.csproj", "{F7117890-0549-461D-B4AB-D1413BB0309E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetGrate.Nugets.Console", "DotNetGrate.Nugets.Console\DotNetGrate.Nugets.Console.csproj", "{2E238B2F-2768-4049-8277-D2A9955F0EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7117890-0549-461D-B4AB-D1413BB0309E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7117890-0549-461D-B4AB-D1413BB0309E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7117890-0549-461D-B4AB-D1413BB0309E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7117890-0549-461D-B4AB-D1413BB0309E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E238B2F-2768-4049-8277-D2A9955F0EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E238B2F-2768-4049-8277-D2A9955F0EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E238B2F-2768-4049-8277-D2A9955F0EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E238B2F-2768-4049-8277-D2A9955F0EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B347AEC-BDE2-404E-9CF2-D37CB64CA7E1}
+	EndGlobalSection
+EndGlobal
